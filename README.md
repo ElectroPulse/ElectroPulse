@@ -1,4 +1,3 @@
-- 💤 Veni, vidi, et abiit ad somnum
 - 🍺 I'm currently studying computer science in Germany
 - 🌱 I'm currently learning java
 - 👓 I'm (not) a full stack web developer
