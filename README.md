@@ -1,6 +1,6 @@
 - 🍺 I'm currently studying computer science in Germany
-- 🌱 I'm currently learning java
-- 👓 I'm (not) a full stack web developer
+- 🌱 I'm currently learning java, a bit of vue and whatever else seems interesting
+- 👓 I'm (not) a full stack web developer (yet), but working on it
 
 
 <!--
