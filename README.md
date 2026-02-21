@@ -1,6 +1,6 @@
 - 🍺 I'm currently studying computer science in Germany
-- 🌱 I'm currently learning java, a bit of vue and whatever else seems interesting
-- 👓 I'm (not) a full stack web developer (yet), but working on it
+- 🌱 I'm currently learning ansible with semaphore, a bit of terraform and a lot of other server and service management tools 
+- 👓 I'm (not) a full stack web developer (yet), but working on it (Edit: Front-End learning is paused for now)
 
 
 <!--
